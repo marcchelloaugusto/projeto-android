@@ -37,6 +37,7 @@
             
             background-image: linear-gradient(to right, var(--cor1), transparent);
             text-indent: 8px;
+            margin-top:10px;
         }
 
         body{
