@@ -21,6 +21,10 @@
             --fonte-android: 'and', sans-serif;
         }
 
+        header > h1{
+            line-height: 2.0;
+        }
+
         
 
         
